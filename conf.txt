@@ -1,0 +1,11 @@
+receptor = protein.pdbqt
+
+center_x =  
+center_y =  
+center_z = 
+
+size_x = 25
+size_y = 25
+size_z = 25
+
+num_modes = 9
